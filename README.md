@@ -6,7 +6,7 @@ Installing Command
 >>>>>>>>>>>>>>
 git clone https://github.com/abuhurayra6/Fb-Atuck.git
 >>>>>>>>>>>>>>
-cd Facebook-Brute-Force
+cd Fb-Atuck
 >>>>>>>>>
 pip install -r primo-pip-reqs.txt
 >>>>>>>>>
